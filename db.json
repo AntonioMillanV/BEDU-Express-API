@@ -1,0 +1,32 @@
+[ 
+    {
+        "id": 1,
+        "nombre": "Ash Ketchup",
+        "region": "Kanto",
+        "pokemon": [
+            "Pikachu",
+            "Charmander",
+            "Squirtle"
+        ]
+    },
+    {
+        "id": 2,
+        "nombre": "misty",
+        "region": "Ciudad Celeste",
+        "pokemon": [
+            "Staryu",
+            "Psyduck",
+            "Gyarados"
+        ]
+    },
+    {
+        "id": 3,
+        "nombre": "Brock",
+        "region": "Ciudad plateada",
+        "pokemon": [
+            "Onyx",
+            "Crobat",
+            "Steelix"
+        ]
+    }
+]
